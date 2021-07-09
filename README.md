@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhikmr778
+- 👋 Hi, I’m Abhinav
 - 👀 I’m interested in ... Deep Reinforcement Learning
 - 🌱 I’m currently learning ... DRL only 
 - 💞️ I’m looking to collaborate on ... not yet; completing my masters
